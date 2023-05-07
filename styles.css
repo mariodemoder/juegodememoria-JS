@@ -1,6 +1,6 @@
 body{
-    background: rgb(15,67,67);
-    background: radial-gradient(circle, rgba(15,67,67,1) 0%, rgba(116,205,217,1) 100%); 
+    background: #149ddd;
+    background: radial-gradient(circle,#000 0%, #149ddd 100%);
     font-family: sans-serif;
     color: whitesmoke;
 }
